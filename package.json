@@ -7,9 +7,12 @@
     "dev": "nodemon index.js"
   },
   "dependencies": {
-    "express": "^4.21.2",
+    "cors": "^2.8.5",
     "dotenv": "^17.2.3",
-    "cors": "^2.8.5"
+    "express": "^4.21.2",
+    "firebase-admin": "^13.8.0",
+    "nodemailer": "^8.0.7",
+    "razorpay": "^2.9.6"
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
